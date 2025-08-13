@@ -1,0 +1,4102 @@
+{
+  "Day 1 학교": [
+    {
+      "eng": "subject",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "gym",
+      "kor": "교육"
+    },
+    {
+      "eng": "education",
+      "kor": "학업의, 학교의"
+    },
+    {
+      "eng": "lecture",
+      "kor": "(특히 대학) 강의, 강연"
+    },
+    {
+      "eng": "term",
+      "kor": "주제; 과목"
+    },
+    {
+      "eng": "attend",
+      "kor": "참석하다; (~에) 다니다"
+    },
+    {
+      "eng": "instruct",
+      "kor": "가르치다; 지시하다"
+    },
+    {
+      "eng": "pupil",
+      "kor": "집중하다"
+    },
+    {
+      "eng": "concentrate",
+      "kor": "과제"
+    },
+    {
+      "eng": "academic",
+      "kor": "결석, 결근"
+    },
+    {
+      "eng": "assignment",
+      "kor": "제출하다"
+    },
+    {
+      "eng": "submit",
+      "kor": "용어; 학기"
+    },
+    {
+      "eng": "auditorium",
+      "kor": "기숙사"
+    },
+    {
+      "eng": "cafeteria",
+      "kor": "교장; 주요한, 주된"
+    },
+    {
+      "eng": "scholarship",
+      "kor": "강당"
+    },
+    {
+      "eng": "graduate",
+      "kor": "학생"
+    },
+    {
+      "eng": "dormitory",
+      "kor": "구내식당"
+    },
+    {
+      "eng": "absence",
+      "kor": "또래"
+    },
+    {
+      "eng": "principal",
+      "kor": "장학금"
+    },
+    {
+      "eng": "peer",
+      "kor": "졸업하다; 졸업생"
+    }
+  ],
+  "Day 2 직장": [
+    {
+      "eng": "apply",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "employee",
+      "kor": "지원하다; 신청하다; 적용하다"
+    },
+    {
+      "eng": "workplace",
+      "kor": "직장"
+    },
+    {
+      "eng": "employ",
+      "kor": "고용하다"
+    },
+    {
+      "eng": "commute",
+      "kor": "고용주"
+    },
+    {
+      "eng": "chief",
+      "kor": "통근하다"
+    },
+    {
+      "eng": "assist",
+      "kor": "임금"
+    },
+    {
+      "eng": "senior",
+      "kor": "종업원, 직원, 고용인"
+    },
+    {
+      "eng": "wage",
+      "kor": "업무, 일"
+    },
+    {
+      "eng": "cooperate",
+      "kor": "부서"
+    },
+    {
+      "eng": "task",
+      "kor": "장, 우두머리; 최고위자인; 주된"
+    },
+    {
+      "eng": "employer",
+      "kor": "(전체) 직원"
+    },
+    {
+      "eng": "department",
+      "kor": "동료"
+    },
+    {
+      "eng": "professional",
+      "kor": "협력하다"
+    },
+    {
+      "eng": "staff",
+      "kor": "상급자; 상급의, 고위의"
+    },
+    {
+      "eng": "expert",
+      "kor": "돕다"
+    },
+    {
+      "eng": "retire",
+      "kor": "전문가"
+    },
+    {
+      "eng": "colleague",
+      "kor": "은퇴하다"
+    },
+    {
+      "eng": "career",
+      "kor": "직업; 경력"
+    },
+    {
+      "eng": "promote",
+      "kor": "승진시키다; 촉진하다"
+    }
+  ],
+  "Day 3 직업": [
+    {
+      "eng": "occupation",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "politician",
+      "kor": "직업"
+    },
+    {
+      "eng": "officer",
+      "kor": "장교; 관리, 임원"
+    },
+    {
+      "eng": "astronaut",
+      "kor": "회계사"
+    },
+    {
+      "eng": "pilot",
+      "kor": "정치인"
+    },
+    {
+      "eng": "interpreter",
+      "kor": "조종사, 비행사"
+    },
+    {
+      "eng": "accountant",
+      "kor": "우주 비행사"
+    },
+    {
+      "eng": "announcer",
+      "kor": "아나운서, 방송 진행자"
+    },
+    {
+      "eng": "photographer",
+      "kor": "통역사"
+    },
+    {
+      "eng": "translator",
+      "kor": "번역가"
+    },
+    {
+      "eng": "salesperson",
+      "kor": "음악가"
+    },
+    {
+      "eng": "musician",
+      "kor": "사진작가"
+    },
+    {
+      "eng": "director",
+      "kor": "책임자; 감독"
+    },
+    {
+      "eng": "architect",
+      "kor": "정비공"
+    },
+    {
+      "eng": "secretary",
+      "kor": "건축가"
+    },
+    {
+      "eng": "receptionist",
+      "kor": "비서"
+    },
+    {
+      "eng": "firefighter",
+      "kor": "소방관"
+    },
+    {
+      "eng": "mechanic",
+      "kor": "기사, 기술자; 공학자"
+    },
+    {
+      "eng": "engineer",
+      "kor": "판매원"
+    },
+    {
+      "eng": "counselor",
+      "kor": "접수 담당자"
+    }
+  ],
+  "Day 4 소통": [
+    {
+      "eng": "mention",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "comment",
+      "kor": "메시지, 전갈"
+    },
+    {
+      "eng": "refer",
+      "kor": "의사소통하다"
+    },
+    {
+      "eng": "remark",
+      "kor": "언급하다; 언급"
+    },
+    {
+      "eng": "communicate",
+      "kor": "논평, 의견; 논평하다"
+    },
+    {
+      "eng": "message",
+      "kor": "발언; 발언하다, 말하다"
+    },
+    {
+      "eng": "misunderstand",
+      "kor": "오해하다"
+    },
+    {
+      "eng": "conflict",
+      "kor": "참조하다; 언급하다"
+    },
+    {
+      "eng": "against",
+      "kor": "논쟁, 논란"
+    },
+    {
+      "eng": "apology",
+      "kor": "갈등, 충돌; 대립하다, 충돌하다"
+    },
+    {
+      "eng": "resolve",
+      "kor": "불평하다, 항의하다"
+    },
+    {
+      "eng": "oppose",
+      "kor": "~에 반대하여"
+    },
+    {
+      "eng": "complain",
+      "kor": "반대하다"
+    },
+    {
+      "eng": "controversy",
+      "kor": "상담하다, 상의하다"
+    },
+    {
+      "eng": "admit",
+      "kor": "인정하다, 시인하다"
+    },
+    {
+      "eng": "respond",
+      "kor": "소리 지르다"
+    },
+    {
+      "eng": "yell",
+      "kor": "토론, 논쟁; 토론하다, 논쟁하다"
+    },
+    {
+      "eng": "debate",
+      "kor": "사과"
+    },
+    {
+      "eng": "negotiate",
+      "kor": "해결하다"
+    },
+    {
+      "eng": "consult",
+      "kor": "협상하다"
+    }
+  ],
+  "Day 5 가정": [
+    {
+      "eng": "toddler",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "childhood",
+      "kor": "어린 시절"
+    },
+    {
+      "eng": "elderly",
+      "kor": "유아, 젖먹이; 유아의"
+    },
+    {
+      "eng": "bride",
+      "kor": "아장아장 걷는 아기"
+    },
+    {
+      "eng": "infant",
+      "kor": "청소년, 십대"
+    },
+    {
+      "eng": "teenager",
+      "kor": "연세 드신"
+    },
+    {
+      "eng": "adult",
+      "kor": "신부"
+    },
+    {
+      "eng": "pregnant",
+      "kor": "신랑"
+    },
+    {
+      "eng": "niece",
+      "kor": "결혼 (생활); 결혼식"
+    },
+    {
+      "eng": "ancestor",
+      "kor": "성인, 어른"
+    },
+    {
+      "eng": "give birth to",
+      "kor": "출산하다"
+    },
+    {
+      "eng": "bridegroom",
+      "kor": "이혼; 이혼하다"
+    },
+    {
+      "eng": "marriage",
+      "kor": "임신한"
+    },
+    {
+      "eng": "divorce",
+      "kor": "(여자) 조카"
+    },
+    {
+      "eng": "take care of",
+      "kor": "~을 돌보다; ~에 신경을 쓰다"
+    },
+    {
+      "eng": "cousin",
+      "kor": "음식을 먹이다; 먹이를 주다"
+    },
+    {
+      "eng": "nephew",
+      "kor": "조상"
+    },
+    {
+      "eng": "feed",
+      "kor": "친척; 비교상의; 상대적인"
+    },
+    {
+      "eng": "adopt",
+      "kor": "입양하다; 채택하다"
+    },
+    {
+      "eng": "relative",
+      "kor": "사촌"
+    }
+  ],
+  "Day 6 가사": [
+    {
+      "eng": "chore",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "make one’s bed",
+      "kor": "일상, 일과; 일상적인, 판에 박힌"
+    },
+    {
+      "eng": "routine",
+      "kor": "(정기적으로 하는) 일, 허드렛일"
+    },
+    {
+      "eng": "set the table",
+      "kor": "빗자루"
+    },
+    {
+      "eng": "housework",
+      "kor": "가사, 집안일"
+    },
+    {
+      "eng": "do the dishes",
+      "kor": "잠자리를 정돈하다"
+    },
+    {
+      "eng": "laundry",
+      "kor": "설거지하다"
+    },
+    {
+      "eng": "wipe",
+      "kor": "세탁물; 세탁"
+    },
+    {
+      "eng": "vacuum",
+      "kor": "지저분한, 어질러진"
+    },
+    {
+      "eng": "iron",
+      "kor": "상을 차리다"
+    },
+    {
+      "eng": "broom",
+      "kor": "다리미; 다리미질을 하다"
+    },
+    {
+      "eng": "throw away",
+      "kor": "먼지; (손이나 솔로) 먼지를 털다"
+    },
+    {
+      "eng": "trash",
+      "kor": "(빗자루 또는 손으로) 쓸다"
+    },
+    {
+      "eng": "dust",
+      "kor": "진공청소기; 진공청소기로 청소하다"
+    },
+    {
+      "eng": "sweep",
+      "kor": "(보통 비눗물과 솔로) 문질러 청소하다"
+    },
+    {
+      "eng": "arrange",
+      "kor": "(천·수건 등으로) 닦다"
+    },
+    {
+      "eng": "mend",
+      "kor": "(더 이상 필요 없는 것을) 버리다"
+    },
+    {
+      "eng": "scrub",
+      "kor": "쓰레기"
+    },
+    {
+      "eng": "messy",
+      "kor": "깔끔한, 잘 정돈된; 정리[정돈]하다"
+    },
+    {
+      "eng": "tidy",
+      "kor": "정리하다, 배열하다; 준비하다"
+    }
+  ],
+  "Day 7 음식": [
+    {
+      "eng": "meal",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "vegetarian",
+      "kor": "요리법; (비싼 식당의) 요리"
+    },
+    {
+      "eng": "dairy",
+      "kor": "소화하다, 소화시키다"
+    },
+    {
+      "eng": "processed",
+      "kor": "식사"
+    },
+    {
+      "eng": "rotten",
+      "kor": "유제품의; 낙농(업)의"
+    },
+    {
+      "eng": "raw",
+      "kor": "(물 외의) 음료"
+    },
+    {
+      "eng": "beverage",
+      "kor": "채식주의자; 채식주의(자)의"
+    },
+    {
+      "eng": "cuisine",
+      "kor": "냉동된"
+    },
+    {
+      "eng": "digest",
+      "kor": "즉각적인; (식품이) 인스턴트의; 순간"
+    },
+    {
+      "eng": "frozen",
+      "kor": "영양; 영양물"
+    },
+    {
+      "eng": "container",
+      "kor": "드문; (고기가) 살짝 익힌"
+    },
+    {
+      "eng": "instant",
+      "kor": "가공된, 가공 처리한"
+    },
+    {
+      "eng": "nutrition",
+      "kor": "익히지 않은, 날것의"
+    },
+    {
+      "eng": "package",
+      "kor": "신선한, 갓 딴"
+    },
+    {
+      "eng": "rare",
+      "kor": "용기, 그릇"
+    },
+    {
+      "eng": "preserve",
+      "kor": "(포장용) 상자, 봉지; 포장하다"
+    },
+    {
+      "eng": "flavor",
+      "kor": "맛있는"
+    },
+    {
+      "eng": "fresh",
+      "kor": "보존하다; 저장하다; 설탕 절임, 잼"
+    },
+    {
+      "eng": "refrigerator",
+      "kor": "썩은, 부패한"
+    },
+    {
+      "eng": "tasty",
+      "kor": "냉장고"
+    }
+  ],
+  "Day 8 요리": [
+    {
+      "eng": "measure",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "ingredient",
+      "kor": "준비하다"
+    },
+    {
+      "eng": "peel",
+      "kor": "측정하다"
+    },
+    {
+      "eng": "slice",
+      "kor": "(요리의) 재료"
+    },
+    {
+      "eng": "pour",
+      "kor": "껍질을 벗기다; (과일·채소 등의) 껍질"
+    },
+    {
+      "eng": "mix",
+      "kor": "섞다, 혼합하다"
+    },
+    {
+      "eng": "prepare",
+      "kor": "얇은 조각; 얇게 썰다"
+    },
+    {
+      "eng": "simmer",
+      "kor": "(토막으로) 썰다"
+    },
+    {
+      "eng": "grill",
+      "kor": "붓다, 따르다"
+    },
+    {
+      "eng": "seasoning",
+      "kor": "(부글부글 계속) 끓이다"
+    },
+    {
+      "eng": "chop",
+      "kor": "섞다, 혼합하다"
+    },
+    {
+      "eng": "roast",
+      "kor": "추가하다; (수·양을) 더하다"
+    },
+    {
+      "eng": "blend",
+      "kor": "(저어 가며) 섞다, 젓다"
+    },
+    {
+      "eng": "stir",
+      "kor": "갈다, 빻다"
+    },
+    {
+      "eng": "decorate",
+      "kor": "양념, 조미료"
+    },
+    {
+      "eng": "grind",
+      "kor": "장식하다"
+    },
+    {
+      "eng": "add",
+      "kor": "끓다, 끓이다; 삶다"
+    },
+    {
+      "eng": "boil",
+      "kor": "석쇠; 석쇠에 굽다"
+    },
+    {
+      "eng": "bake",
+      "kor": "(고기 등을) 굽다"
+    },
+    {
+      "eng": "steam",
+      "kor": "(빵 등을) 굽다"
+    }
+  ],
+  "Day 9 신체": [
+    {
+      "eng": "forehead",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "eyebrow",
+      "kor": "눈썹"
+    },
+    {
+      "eng": "tongue",
+      "kor": "이마"
+    },
+    {
+      "eng": "skull",
+      "kor": "두개골; 머리"
+    },
+    {
+      "eng": "cheek",
+      "kor": "볼, 뺨"
+    },
+    {
+      "eng": "chin",
+      "kor": "(주로 복수로) 잇몸"
+    },
+    {
+      "eng": "breast",
+      "kor": "혀; 언어"
+    },
+    {
+      "eng": "stomach",
+      "kor": "턱"
+    },
+    {
+      "eng": "kidney",
+      "kor": "장기"
+    },
+    {
+      "eng": "gum",
+      "kor": "흉부, 가슴"
+    },
+    {
+      "eng": "throat",
+      "kor": "목구멍, 목"
+    },
+    {
+      "eng": "chest",
+      "kor": "엉덩이"
+    },
+    {
+      "eng": "thigh",
+      "kor": "허벅지"
+    },
+    {
+      "eng": "buttock",
+      "kor": "가슴, 유방"
+    },
+    {
+      "eng": "liver",
+      "kor": "근육"
+    },
+    {
+      "eng": "lung",
+      "kor": "손바닥"
+    },
+    {
+      "eng": "palm",
+      "kor": "간"
+    },
+    {
+      "eng": "organ",
+      "kor": "무릎"
+    },
+    {
+      "eng": "knee",
+      "kor": "폐"
+    },
+    {
+      "eng": "muscle",
+      "kor": "신장, 콩팥"
+    }
+  ],
+  "Day 10 동작": [
+    {
+      "eng": "descend",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "creep",
+      "kor": "내려오다"
+    },
+    {
+      "eng": "ascend",
+      "kor": "오르다, 올라가다"
+    },
+    {
+      "eng": "stretch",
+      "kor": "늘이다; 늘어지다; 기지개를 켜다; 뻗다"
+    },
+    {
+      "eng": "bounce",
+      "kor": "무릎을 꿇다"
+    },
+    {
+      "eng": "kneel",
+      "kor": "살금살금 움직이다"
+    },
+    {
+      "eng": "lift",
+      "kor": "굽히다; 구부리다"
+    },
+    {
+      "eng": "frown",
+      "kor": "접다, 개키다"
+    },
+    {
+      "eng": "bend",
+      "kor": "(조심스럽게) 놓다[두다]"
+    },
+    {
+      "eng": "roll",
+      "kor": "튀다; 튀기다; 깡충깡충 뛰다"
+    },
+    {
+      "eng": "pull",
+      "kor": "구르다; 굴리다; 뒹굴다"
+    },
+    {
+      "eng": "lay",
+      "kor": "얼굴을 찡그리다; 눈살을 찌푸리다"
+    },
+    {
+      "eng": "bind",
+      "kor": "(특히 손가락으로 꼭) 짜다"
+    },
+    {
+      "eng": "squeeze",
+      "kor": "(구멍 등을) 파다"
+    },
+    {
+      "eng": "dig",
+      "kor": "묶다"
+    },
+    {
+      "eng": "drag",
+      "kor": "당기다, 끌다"
+    },
+    {
+      "eng": "fold",
+      "kor": "끌다, 끌고 가다"
+    },
+    {
+      "eng": "blink",
+      "kor": "(바람이) 불다; (입으로) 불다"
+    },
+    {
+      "eng": "chew",
+      "kor": "들어 올리다"
+    },
+    {
+      "eng": "blow",
+      "kor": "(음식을) 씹다; 물어뜯다"
+    }
+  ],
+  "Day 11 스포츠": [
+    {
+      "eng": "athlete",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "match",
+      "kor": "시합, 경기"
+    },
+    {
+      "eng": "referee",
+      "kor": "(몸이) 탄탄한; 운동 경기의"
+    },
+    {
+      "eng": "defend",
+      "kor": "심판"
+    },
+    {
+      "eng": "score",
+      "kor": "운동선수"
+    },
+    {
+      "eng": "athletic",
+      "kor": "득점, 점수; 득점하다"
+    },
+    {
+      "eng": "challenge",
+      "kor": "방어[수비]하다"
+    },
+    {
+      "eng": "competition",
+      "kor": "응원하다; 환호하다; 응원; 환호"
+    },
+    {
+      "eng": "cheer",
+      "kor": "선수권 대회"
+    },
+    {
+      "eng": "championship",
+      "kor": "정신, 마음"
+    },
+    {
+      "eng": "indoor",
+      "kor": "규칙적으로, 정기적으로"
+    },
+    {
+      "eng": "regularly",
+      "kor": "공정한, 공평한"
+    },
+    {
+      "eng": "spirit",
+      "kor": "도전; 도전하다"
+    },
+    {
+      "eng": "penalty",
+      "kor": "최선을 다하다"
+    },
+    {
+      "eng": "do one’s best",
+      "kor": "경쟁; 대회, 시합"
+    },
+    {
+      "eng": "work out",
+      "kor": "처벌; 벌칙"
+    },
+    {
+      "eng": "sweat",
+      "kor": "야외의"
+    },
+    {
+      "eng": "fair",
+      "kor": "힘; 강점"
+    },
+    {
+      "eng": "outdoor",
+      "kor": "운동하다"
+    },
+    {
+      "eng": "strength",
+      "kor": "실내의"
+    }
+  ],
+  "Day 12 성격": [
+    {
+      "eng": "positive",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "personality",
+      "kor": "성격, 인격; 개성"
+    },
+    {
+      "eng": "confident",
+      "kor": "세심한; 예민한, 민감한"
+    },
+    {
+      "eng": "bold",
+      "kor": "낙천주의자, 낙관론자"
+    },
+    {
+      "eng": "considerate",
+      "kor": "자신감 있는; 확신하는"
+    },
+    {
+      "eng": "modest",
+      "kor": "조심성 있는, 주의 깊은"
+    },
+    {
+      "eng": "temper",
+      "kor": "긍정적인; 확신하는, 분명한"
+    },
+    {
+      "eng": "optimist",
+      "kor": "용감한, 대담한"
+    },
+    {
+      "eng": "passive",
+      "kor": "열정적인, 열렬한"
+    },
+    {
+      "eng": "careful",
+      "kor": "수동적인, 소극적인"
+    },
+    {
+      "eng": "negative",
+      "kor": "사려 깊은, (남을) 배려하는"
+    },
+    {
+      "eng": "rude",
+      "kor": "부정적인, 비관적인; 거절하는"
+    },
+    {
+      "eng": "passionate",
+      "kor": "겸손한; 적당한"
+    },
+    {
+      "eng": "sensitive",
+      "kor": "인색한; 심술궂은"
+    },
+    {
+      "eng": "generous",
+      "kor": "후한; 관대한"
+    },
+    {
+      "eng": "mild",
+      "kor": "(말·태도가) 순한, 온화한; (날씨가) 온화한,"
+    },
+    {
+      "eng": "strict",
+      "kor": "포근한"
+    },
+    {
+      "eng": "aggressive",
+      "kor": "무례한, 버릇없는"
+    },
+    {
+      "eng": "show off",
+      "kor": "공격적인; 적극적인, 의욕적인"
+    },
+    {
+      "eng": "mean",
+      "kor": "~을 자랑[과시]하다"
+    }
+  ],
+  "Day 13 감정": [
+    {
+      "eng": "mood",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "delight",
+      "kor": "기분; 분위기"
+    },
+    {
+      "eng": "sorrow",
+      "kor": "기쁨, 즐거움; 매우 기쁘게 하다"
+    },
+    {
+      "eng": "emotion",
+      "kor": "만족하는"
+    },
+    {
+      "eng": "satisfied",
+      "kor": "감정; 정서"
+    },
+    {
+      "eng": "concerned",
+      "kor": "위로, 위안; 위로하다, 위안하다"
+    },
+    {
+      "eng": "comfort",
+      "kor": "슬픔"
+    },
+    {
+      "eng": "depressed",
+      "kor": "걱정하는, 염려하는"
+    },
+    {
+      "eng": "embarrassed",
+      "kor": "진정한, 진심의"
+    },
+    {
+      "eng": "ashamed",
+      "kor": "당황스러운, 쑥스러운"
+    },
+    {
+      "eng": "sympathy",
+      "kor": "(기분이) 우울한; 불경기의"
+    },
+    {
+      "eng": "grateful",
+      "kor": "겁먹은, 무서워하는"
+    },
+    {
+      "eng": "frightened",
+      "kor": "동정(심), 연민"
+    },
+    {
+      "eng": "envy",
+      "kor": "감사하는"
+    },
+    {
+      "eng": "regret",
+      "kor": "부끄러워하는, 수치스러운"
+    },
+    {
+      "eng": "nervous",
+      "kor": "긴장한, 불안해하는; 신경이 과민한"
+    },
+    {
+      "eng": "sincere",
+      "kor": "부러워하다; 질투하다; 부러움, 선망"
+    },
+    {
+      "eng": "tension",
+      "kor": "불안해하는, 걱정하는"
+    },
+    {
+      "eng": "offend",
+      "kor": "기분 상하게 하다"
+    },
+    {
+      "eng": "anxious",
+      "kor": "유감; 후회; 유감으로 생각하다; 후회하다"
+    }
+  ],
+  "Day 14 이성과 논리": [
+    {
+      "eng": "reason",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "consider",
+      "kor": "논리"
+    },
+    {
+      "eng": "probably",
+      "kor": "상상하다"
+    },
+    {
+      "eng": "logic",
+      "kor": "이유; 근거; 이성, 사고력"
+    },
+    {
+      "eng": "imagine",
+      "kor": "예상하다, 기대하다"
+    },
+    {
+      "eng": "expect",
+      "kor": "고려하다, 숙고하다; ~로 여기다"
+    },
+    {
+      "eng": "suppose",
+      "kor": "생각나게 하다, 상기시키다"
+    },
+    {
+      "eng": "recall",
+      "kor": "비교하다"
+    },
+    {
+      "eng": "conscious",
+      "kor": "아마"
+    },
+    {
+      "eng": "perceive",
+      "kor": "의식하는, 알고 있는; 의도적인"
+    },
+    {
+      "eng": "contrast",
+      "kor": "인지하다"
+    },
+    {
+      "eng": "view",
+      "kor": "(사람·사물을) 알아보다; 인정[인식]하다"
+    },
+    {
+      "eng": "conclude",
+      "kor": "결론을 내리다; 끝내다"
+    },
+    {
+      "eng": "recognize",
+      "kor": "생각하다, 추정하다; 가정하다"
+    },
+    {
+      "eng": "remind",
+      "kor": "견해, 생각; ~을 보다"
+    },
+    {
+      "eng": "memory",
+      "kor": "합리적인, 분별 있는"
+    },
+    {
+      "eng": "compare",
+      "kor": "기억해 내다, 상기하다"
+    },
+    {
+      "eng": "realize",
+      "kor": "기억(력); 추억"
+    },
+    {
+      "eng": "judge",
+      "kor": "판단하다; 판사"
+    },
+    {
+      "eng": "sensible",
+      "kor": "대조하다; 대조, 대비"
+    }
+  ],
+  "Day 15 의견": [
+    {
+      "eng": "wonder",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "doubt",
+      "kor": "궁금하다; 놀라다; 경이"
+    },
+    {
+      "eng": "opinion",
+      "kor": "의심하다; 의문, 의심"
+    },
+    {
+      "eng": "emphasize",
+      "kor": "의견, 견해"
+    },
+    {
+      "eng": "require",
+      "kor": "필요로 하다; 요구하다"
+    },
+    {
+      "eng": "request",
+      "kor": "(정중히) 요청하다; 요청"
+    },
+    {
+      "eng": "disagree",
+      "kor": "~을 요구하다"
+    },
+    {
+      "eng": "force",
+      "kor": "논쟁; 논거, 주장"
+    },
+    {
+      "eng": "argument",
+      "kor": "주장하다; 요구하다; 주장; 요구"
+    },
+    {
+      "eng": "call for",
+      "kor": "조언, 충고"
+    },
+    {
+      "eng": "claim",
+      "kor": "고집하다, 주장하다"
+    },
+    {
+      "eng": "insist",
+      "kor": "강요하다; 힘"
+    },
+    {
+      "eng": "support",
+      "kor": "제안하다; 청혼하다"
+    },
+    {
+      "eng": "agree",
+      "kor": "지지하다; 지원하다; 부양하다; 지지"
+    },
+    {
+      "eng": "advice",
+      "kor": "강조하다"
+    },
+    {
+      "eng": "propose",
+      "kor": "제안하다"
+    },
+    {
+      "eng": "discuss",
+      "kor": "동의하다"
+    },
+    {
+      "eng": "suggest",
+      "kor": "동의하지 않다"
+    },
+    {
+      "eng": "recommend",
+      "kor": "추천하다"
+    },
+    {
+      "eng": "persuade",
+      "kor": "논의하다, 토론하다"
+    }
+  ],
+  "Day 16 건물": [
+    {
+      "eng": "site",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "landmark",
+      "kor": "주요 지형지물"
+    },
+    {
+      "eng": "address",
+      "kor": "건축(학); 건축 양식"
+    },
+    {
+      "eng": "locate",
+      "kor": "(위치 등을) 찾아내다; ~에 위치하다"
+    },
+    {
+      "eng": "gate",
+      "kor": "장소, 부지"
+    },
+    {
+      "eng": "lobby",
+      "kor": "차고"
+    },
+    {
+      "eng": "basement",
+      "kor": "근처, 이웃"
+    },
+    {
+      "eng": "porch",
+      "kor": "(출)입구"
+    },
+    {
+      "eng": "lawn",
+      "kor": "주소; 연설"
+    },
+    {
+      "eng": "column",
+      "kor": "대문; 출입구"
+    },
+    {
+      "eng": "hallway",
+      "kor": "현관"
+    },
+    {
+      "eng": "interior",
+      "kor": "마당, 뜰"
+    },
+    {
+      "eng": "architecture",
+      "kor": "잔디밭"
+    },
+    {
+      "eng": "neighborhood",
+      "kor": "복도"
+    },
+    {
+      "eng": "exit",
+      "kor": "계단"
+    },
+    {
+      "eng": "staircase",
+      "kor": "내부의; 내부"
+    },
+    {
+      "eng": "aisle",
+      "kor": "로비"
+    },
+    {
+      "eng": "entrance",
+      "kor": "통로"
+    },
+    {
+      "eng": "garage",
+      "kor": "기둥"
+    },
+    {
+      "eng": "yard",
+      "kor": "출구; 나가다"
+    }
+  ],
+  "Day 17 교통 1": [
+    {
+      "eng": "highway",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "crosswalk",
+      "kor": "고속 도로"
+    },
+    {
+      "eng": "crossroad",
+      "kor": "횡단보도"
+    },
+    {
+      "eng": "license",
+      "kor": "보도, 인도"
+    },
+    {
+      "eng": "accelerate",
+      "kor": "교차로"
+    },
+    {
+      "eng": "pedestrian",
+      "kor": "신호등"
+    },
+    {
+      "eng": "traffic light",
+      "kor": "자동차"
+    },
+    {
+      "eng": "parking lot",
+      "kor": "브레이크, 제동 장치"
+    },
+    {
+      "eng": "sidewalk",
+      "kor": "전기의"
+    },
+    {
+      "eng": "wheel",
+      "kor": "보행자; 보행자의"
+    },
+    {
+      "eng": "gas station",
+      "kor": "엔진"
+    },
+    {
+      "eng": "pick up",
+      "kor": "속도를 높이다; 가속화하다"
+    },
+    {
+      "eng": "automobile",
+      "kor": "바퀴"
+    },
+    {
+      "eng": "brake",
+      "kor": "조종하다, 몰다"
+    },
+    {
+      "eng": "electric",
+      "kor": "재충전하다"
+    },
+    {
+      "eng": "seatbelt",
+      "kor": "안전벨트"
+    },
+    {
+      "eng": "engine",
+      "kor": "면허(증); (공식적으로) 허가하다"
+    },
+    {
+      "eng": "steer",
+      "kor": "평평한; 바람이 빠진"
+    },
+    {
+      "eng": "recharge",
+      "kor": "주차장"
+    },
+    {
+      "eng": "flat",
+      "kor": "주유소"
+    }
+  ],
+  "Day 18 교통 2": [
+    {
+      "eng": "passenger",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "traffic",
+      "kor": "운송 수단, 탈것, 차"
+    },
+    {
+      "eng": "vehicle",
+      "kor": "교통(량), 통행"
+    },
+    {
+      "eng": "transfer",
+      "kor": "(교통) 요금"
+    },
+    {
+      "eng": "fare",
+      "kor": "승객"
+    },
+    {
+      "eng": "transport",
+      "kor": "수송하다; 수송 (수단)"
+    },
+    {
+      "eng": "land",
+      "kor": "객실, 선실"
+    },
+    {
+      "eng": "destination",
+      "kor": "이동하다; 환승하다"
+    },
+    {
+      "eng": "ferry",
+      "kor": "비행; 항공기"
+    },
+    {
+      "eng": "flight",
+      "kor": "승무원"
+    },
+    {
+      "eng": "journey",
+      "kor": "항공기"
+    },
+    {
+      "eng": "aircraft",
+      "kor": "연락선, 여객선"
+    },
+    {
+      "eng": "crew",
+      "kor": "목적지, 행선지"
+    },
+    {
+      "eng": "cabin",
+      "kor": "(배의) 갑판"
+    },
+    {
+      "eng": "deck",
+      "kor": "탑승하다"
+    },
+    {
+      "eng": "board",
+      "kor": "~을 경유하여, ~을 거쳐"
+    },
+    {
+      "eng": "take off",
+      "kor": "경로; 노선"
+    },
+    {
+      "eng": "delay",
+      "kor": "여정, 여행"
+    },
+    {
+      "eng": "via",
+      "kor": "이륙하다"
+    },
+    {
+      "eng": "route",
+      "kor": "지연, 지체; 지연시키다"
+    }
+  ],
+  "Day 19 여행": [
+    {
+      "eng": "passport",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "baggage",
+      "kor": "(안내) 책자"
+    },
+    {
+      "eng": "brochure",
+      "kor": "일정; 시간표"
+    },
+    {
+      "eng": "schedule",
+      "kor": "여행사 직원"
+    },
+    {
+      "eng": "insurance",
+      "kor": "보험"
+    },
+    {
+      "eng": "vacation",
+      "kor": "명소; 매력"
+    },
+    {
+      "eng": "scenery",
+      "kor": "수하물"
+    },
+    {
+      "eng": "amusement park",
+      "kor": "여행 가방"
+    },
+    {
+      "eng": "souvenir",
+      "kor": "여권"
+    },
+    {
+      "eng": "tourist",
+      "kor": "방학, 휴가"
+    },
+    {
+      "eng": "customs",
+      "kor": "경치, 풍경"
+    },
+    {
+      "eng": "suitcase",
+      "kor": "떠나다; 휴가"
+    },
+    {
+      "eng": "foreign",
+      "kor": "외국의"
+    },
+    {
+      "eng": "cancel",
+      "kor": "관광객"
+    },
+    {
+      "eng": "reservation",
+      "kor": "취소하다"
+    },
+    {
+      "eng": "check in",
+      "kor": "예약"
+    },
+    {
+      "eng": "travel agent",
+      "kor": "탑승[투숙] 수속을 밟다"
+    },
+    {
+      "eng": "leave",
+      "kor": "기념품"
+    },
+    {
+      "eng": "sightseeing",
+      "kor": "세관; 관세"
+    },
+    {
+      "eng": "attraction",
+      "kor": "관광"
+    }
+  ],
+  "Day 20 예술": [
+    {
+      "eng": "masterpiece",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "artwork",
+      "kor": "조각품"
+    },
+    {
+      "eng": "sculpture",
+      "kor": "미술"
+    },
+    {
+      "eng": "critic",
+      "kor": "미술품, 예술품"
+    },
+    {
+      "eng": "exhibition",
+      "kor": "걸작, 명작"
+    },
+    {
+      "eng": "display",
+      "kor": "공예, 공예품; 기술"
+    },
+    {
+      "eng": "imaginative",
+      "kor": "창의적인, 상상력이 풍부한"
+    },
+    {
+      "eng": "craft",
+      "kor": "전시회; 전시"
+    },
+    {
+      "eng": "abstract",
+      "kor": "추상적인"
+    },
+    {
+      "eng": "original",
+      "kor": "원래의; 독창적인"
+    },
+    {
+      "eng": "fine art",
+      "kor": "공연; 연주회"
+    },
+    {
+      "eng": "inspire",
+      "kor": "고전적인; (음악이) 클래식의"
+    },
+    {
+      "eng": "value",
+      "kor": "창조, 창작; 창작물"
+    },
+    {
+      "eng": "audience",
+      "kor": "단계; 무대"
+    },
+    {
+      "eng": "appreciate",
+      "kor": "전시하다; 전시, 진열"
+    },
+    {
+      "eng": "creation",
+      "kor": "인상, 느낌"
+    },
+    {
+      "eng": "performance",
+      "kor": "고무하다, 격려하다"
+    },
+    {
+      "eng": "classical",
+      "kor": "관중; 청중"
+    },
+    {
+      "eng": "stage",
+      "kor": "진가를 알아보다; 감상하다; 고마워하다"
+    },
+    {
+      "eng": "impression",
+      "kor": "비평가, 평론가"
+    }
+  ],
+  "Day 21 방송과 언론": [
+    {
+      "eng": "advertise",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "broadcast",
+      "kor": "방송하다; 방송"
+    },
+    {
+      "eng": "press",
+      "kor": "(영화·음악 등의) 오락(물)"
+    },
+    {
+      "eng": "fame",
+      "kor": "대본, 각본"
+    },
+    {
+      "eng": "trend",
+      "kor": "신문, 언론; 누르다"
+    },
+    {
+      "eng": "celebrity",
+      "kor": "영향력 있는; 강력한"
+    },
+    {
+      "eng": "visual",
+      "kor": "동향, 추세; 유행"
+    },
+    {
+      "eng": "mass media",
+      "kor": "대중 매체"
+    },
+    {
+      "eng": "script",
+      "kor": "학술지, (전문) 잡지; 일기"
+    },
+    {
+      "eng": "powerful",
+      "kor": "화면; 감시[관리]하다"
+    },
+    {
+      "eng": "monitor",
+      "kor": "(신문·잡지의) 기사, 글"
+    },
+    {
+      "eng": "entertainment",
+      "kor": "광고하다"
+    },
+    {
+      "eng": "journal",
+      "kor": "(유명) 연예인; 유명 인사"
+    },
+    {
+      "eng": "article",
+      "kor": "명성"
+    },
+    {
+      "eng": "current",
+      "kor": "현재의; 최신의"
+    },
+    {
+      "eng": "journalist",
+      "kor": "특징; 특집 기사; 특징으로 삼다, 특별히"
+    },
+    {
+      "eng": "knowledge",
+      "kor": "포함하다"
+    },
+    {
+      "eng": "headline",
+      "kor": "시각의"
+    },
+    {
+      "eng": "feature",
+      "kor": "기자"
+    },
+    {
+      "eng": "affect",
+      "kor": "지식"
+    }
+  ],
+  "Day 22 패션": [
+    {
+      "eng": "bracelet",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "handkerchief",
+      "kor": "보석류"
+    },
+    {
+      "eng": "wallet",
+      "kor": "손수건"
+    },
+    {
+      "eng": "loose",
+      "kor": "배낭; 배낭여행을 하다"
+    },
+    {
+      "eng": "clothes",
+      "kor": "팔찌"
+    },
+    {
+      "eng": "casual",
+      "kor": "지갑"
+    },
+    {
+      "eng": "backpack",
+      "kor": "격식을 차린; 공식적인"
+    },
+    {
+      "eng": "trousers",
+      "kor": "옷"
+    },
+    {
+      "eng": "vest",
+      "kor": "평상시의"
+    },
+    {
+      "eng": "suit",
+      "kor": "단정한, 정돈된"
+    },
+    {
+      "eng": "uniform",
+      "kor": "바지"
+    },
+    {
+      "eng": "leather",
+      "kor": "풀린; 헐렁한"
+    },
+    {
+      "eng": "formal",
+      "kor": "(옷이) 딱 붙는, 꽉 조이는"
+    },
+    {
+      "eng": "tight",
+      "kor": "의상"
+    },
+    {
+      "eng": "jewelry",
+      "kor": "가죽"
+    },
+    {
+      "eng": "neat",
+      "kor": "천, 직물"
+    },
+    {
+      "eng": "fabric",
+      "kor": "정장; (옷·색상 등이) 어울리다"
+    },
+    {
+      "eng": "sleeve",
+      "kor": "조끼"
+    },
+    {
+      "eng": "costume",
+      "kor": "교복, 제복; 한결같은, 균일한"
+    },
+    {
+      "eng": "knit",
+      "kor": "(실로 옷 등을) 뜨다; 뜨개질한 옷, 니트"
+    }
+  ],
+  "Day 23 자연": [
+    {
+      "eng": "natural",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "coast",
+      "kor": "대륙"
+    },
+    {
+      "eng": "ecosystem",
+      "kor": "자연의; 당연한; 타고난"
+    },
+    {
+      "eng": "continent",
+      "kor": "해양의, 바다의"
+    },
+    {
+      "eng": "ocean",
+      "kor": "해안, 연안"
+    },
+    {
+      "eng": "marine",
+      "kor": "서식지"
+    },
+    {
+      "eng": "disaster",
+      "kor": "생태계"
+    },
+    {
+      "eng": "phenomenon",
+      "kor": "대양, 바다"
+    },
+    {
+      "eng": "species",
+      "kor": "열대 지방의, 열대의"
+    },
+    {
+      "eng": "habitat",
+      "kor": "종"
+    },
+    {
+      "eng": "tropical",
+      "kor": "북극/남극의, 극지의"
+    },
+    {
+      "eng": "wildlife",
+      "kor": "야생 생물"
+    },
+    {
+      "eng": "typhoon",
+      "kor": "열대 우림"
+    },
+    {
+      "eng": "flood",
+      "kor": "화산"
+    },
+    {
+      "eng": "volcano",
+      "kor": "사막"
+    },
+    {
+      "eng": "drought",
+      "kor": "재난, 재해"
+    },
+    {
+      "eng": "rainforest",
+      "kor": "태풍"
+    },
+    {
+      "eng": "desert",
+      "kor": "가뭄"
+    },
+    {
+      "eng": "polar",
+      "kor": "현상"
+    },
+    {
+      "eng": "earthquake",
+      "kor": "지진"
+    }
+  ],
+  "Day 24 날씨": [
+    {
+      "eng": "forecast",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "climate",
+      "kor": "예보, 예측; 예측[예보]하다"
+    },
+    {
+      "eng": "weather",
+      "kor": "기후"
+    },
+    {
+      "eng": "predict",
+      "kor": "우박"
+    },
+    {
+      "eng": "hail",
+      "kor": "안개가 낀"
+    },
+    {
+      "eng": "rainfall",
+      "kor": "강우; 강우량"
+    },
+    {
+      "eng": "snowstorm",
+      "kor": "날씨"
+    },
+    {
+      "eng": "degree",
+      "kor": "예측하다"
+    },
+    {
+      "eng": "evaporate",
+      "kor": "이슬"
+    },
+    {
+      "eng": "humid",
+      "kor": "눈보라"
+    },
+    {
+      "eng": "freeze",
+      "kor": "산들바람"
+    },
+    {
+      "eng": "temperature",
+      "kor": "(온도 단위의) 도; 정도; 학위"
+    },
+    {
+      "eng": "melt",
+      "kor": "(날씨가) 습한"
+    },
+    {
+      "eng": "foggy",
+      "kor": "번개"
+    },
+    {
+      "eng": "dew",
+      "kor": "천둥"
+    },
+    {
+      "eng": "lightning",
+      "kor": "증발하다"
+    },
+    {
+      "eng": "thunder",
+      "kor": "온도, 기온"
+    },
+    {
+      "eng": "breeze",
+      "kor": "얼다; 얼리다"
+    },
+    {
+      "eng": "thermometer",
+      "kor": "온도계"
+    },
+    {
+      "eng": "moisture",
+      "kor": "수분, 습기"
+    }
+  ],
+  "Day 25 환경": [
+    {
+      "eng": "protection",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "environmental",
+      "kor": "보호"
+    },
+    {
+      "eng": "conservation",
+      "kor": "재사용하다"
+    },
+    {
+      "eng": "poisonous",
+      "kor": "자원"
+    },
+    {
+      "eng": "exhaust",
+      "kor": "(자연) 환경의"
+    },
+    {
+      "eng": "overuse",
+      "kor": "오염, 공해"
+    },
+    {
+      "eng": "carbon",
+      "kor": "유독한, 독성이 있는"
+    },
+    {
+      "eng": "endangered",
+      "kor": "남용하다"
+    },
+    {
+      "eng": "reuse",
+      "kor": "보호"
+    },
+    {
+      "eng": "resource",
+      "kor": "재생 가능한"
+    },
+    {
+      "eng": "pollution",
+      "kor": "줄이다"
+    },
+    {
+      "eng": "waste",
+      "kor": "낭비하다; 낭비; 쓰레기"
+    },
+    {
+      "eng": "acid",
+      "kor": "쓰레기"
+    },
+    {
+      "eng": "reduce",
+      "kor": "배기가스; 다 써버리다"
+    },
+    {
+      "eng": "renewable",
+      "kor": "탄소"
+    },
+    {
+      "eng": "garbage",
+      "kor": "산성의; 산"
+    },
+    {
+      "eng": "greenhouse",
+      "kor": "멸종 위기에 처한"
+    },
+    {
+      "eng": "dispose",
+      "kor": "온실"
+    },
+    {
+      "eng": "shortage",
+      "kor": "부족"
+    },
+    {
+      "eng": "recycle",
+      "kor": "처리하다; 배치하다"
+    }
+  ],
+  "Day 26 에너지": [
+    {
+      "eng": "coal",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "fuel",
+      "kor": "석탄"
+    },
+    {
+      "eng": "run out of",
+      "kor": "~을 다 써버리다; ~을 바닥내다"
+    },
+    {
+      "eng": "finite",
+      "kor": "연료; 연료를 공급하다"
+    },
+    {
+      "eng": "fossil",
+      "kor": "화석"
+    },
+    {
+      "eng": "solar",
+      "kor": "유한한, 한정된"
+    },
+    {
+      "eng": "crisis",
+      "kor": "대체 가능한; 대안"
+    },
+    {
+      "eng": "nuclear",
+      "kor": "풍차"
+    },
+    {
+      "eng": "abundant",
+      "kor": "위기"
+    },
+    {
+      "eng": "tidal",
+      "kor": "줄이다"
+    },
+    {
+      "eng": "vapor",
+      "kor": "증기"
+    },
+    {
+      "eng": "efficient",
+      "kor": "태양의"
+    },
+    {
+      "eng": "electricity",
+      "kor": "조수의"
+    },
+    {
+      "eng": "flow",
+      "kor": "변형시키다"
+    },
+    {
+      "eng": "windmill",
+      "kor": "전기"
+    },
+    {
+      "eng": "power plant",
+      "kor": "발생시키다"
+    },
+    {
+      "eng": "cut down",
+      "kor": "원자력의; 핵(무기)의"
+    },
+    {
+      "eng": "alternative",
+      "kor": "발전소"
+    },
+    {
+      "eng": "generate",
+      "kor": "풍부한"
+    },
+    {
+      "eng": "transform",
+      "kor": "효율적인, 능률적인"
+    }
+  ],
+  "Day 27 역사": [
+    {
+      "eng": "civilization",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "empire",
+      "kor": "역사상의, 역사적인"
+    },
+    {
+      "eng": "historic",
+      "kor": "시대"
+    },
+    {
+      "eng": "historical",
+      "kor": "역사적인, 역사적으로 중요한"
+    },
+    {
+      "eng": "dynasty",
+      "kor": "기록하다; 서류, 문서"
+    },
+    {
+      "eng": "ancient",
+      "kor": "유산"
+    },
+    {
+      "eng": "era",
+      "kor": "식민지"
+    },
+    {
+      "eng": "document",
+      "kor": "고대의"
+    },
+    {
+      "eng": "conquer",
+      "kor": "문명"
+    },
+    {
+      "eng": "establish",
+      "kor": "국왕의, 왕실의"
+    },
+    {
+      "eng": "liberty",
+      "kor": "혁명"
+    },
+    {
+      "eng": "pioneer",
+      "kor": "제국"
+    },
+    {
+      "eng": "noble",
+      "kor": "설립하다"
+    },
+    {
+      "eng": "rule",
+      "kor": "왕조, 왕가"
+    },
+    {
+      "eng": "colony",
+      "kor": "독립"
+    },
+    {
+      "eng": "slave",
+      "kor": "귀족의; 고결한, 숭고한"
+    },
+    {
+      "eng": "revolution",
+      "kor": "정복하다"
+    },
+    {
+      "eng": "independence",
+      "kor": "통치하다, 다스리다; 통치"
+    },
+    {
+      "eng": "heritage",
+      "kor": "개척자; 개척하다"
+    },
+    {
+      "eng": "royal",
+      "kor": "노예"
+    }
+  ],
+  "Day 28 종교": [
+    {
+      "eng": "believe in",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "faith",
+      "kor": "믿음; 신앙심"
+    },
+    {
+      "eng": "spiritual",
+      "kor": "종교"
+    },
+    {
+      "eng": "religion",
+      "kor": "~을 믿다"
+    },
+    {
+      "eng": "absolute",
+      "kor": "완전한, 완벽한; 절대적인"
+    },
+    {
+      "eng": "holy",
+      "kor": "초자연적인"
+    },
+    {
+      "eng": "choir",
+      "kor": "정신적인; 종교적인"
+    },
+    {
+      "eng": "fascinate",
+      "kor": "자비"
+    },
+    {
+      "eng": "sacred",
+      "kor": "성스러운, 종교적인"
+    },
+    {
+      "eng": "mercy",
+      "kor": "사원, 사찰"
+    },
+    {
+      "eng": "ritual",
+      "kor": "의식"
+    },
+    {
+      "eng": "temple",
+      "kor": "신성한, 성스러운"
+    },
+    {
+      "eng": "worship",
+      "kor": "극심한; 극단적인"
+    },
+    {
+      "eng": "supernatural",
+      "kor": "의식, 식"
+    },
+    {
+      "eng": "ceremony",
+      "kor": "예배하다, 숭배하다; 예배, 숭배"
+    },
+    {
+      "eng": "extreme",
+      "kor": "신부, 사제"
+    },
+    {
+      "eng": "priest",
+      "kor": "기도하다"
+    },
+    {
+      "eng": "pray",
+      "kor": "미신"
+    },
+    {
+      "eng": "superstition",
+      "kor": "합창단, 성가대"
+    },
+    {
+      "eng": "evil",
+      "kor": "마음을 사로잡다"
+    }
+  ],
+  "Day 29 전쟁": [
+    {
+      "eng": "soldier",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "war",
+      "kor": "군대; 군사의"
+    },
+    {
+      "eng": "troop",
+      "kor": "군인"
+    },
+    {
+      "eng": "invade",
+      "kor": "전쟁"
+    },
+    {
+      "eng": "explode",
+      "kor": "병력, 군대"
+    },
+    {
+      "eng": "weapon",
+      "kor": "전투; 싸우다"
+    },
+    {
+      "eng": "bomb",
+      "kor": "명령하다, 지시하다; 명령"
+    },
+    {
+      "eng": "battle",
+      "kor": "적, 적군"
+    },
+    {
+      "eng": "occupy",
+      "kor": "공격하다; 공격"
+    },
+    {
+      "eng": "enemy",
+      "kor": "폭탄"
+    },
+    {
+      "eng": "victim",
+      "kor": "총알"
+    },
+    {
+      "eng": "military",
+      "kor": "피해자, 희생자"
+    },
+    {
+      "eng": "defeat",
+      "kor": "(폭탄이) 터지다, 폭발하다"
+    },
+    {
+      "eng": "memorial",
+      "kor": "침략하다"
+    },
+    {
+      "eng": "victory",
+      "kor": "기념의, 추도의; 기념비, 기념관"
+    },
+    {
+      "eng": "unite",
+      "kor": "무기"
+    },
+    {
+      "eng": "command",
+      "kor": "방어"
+    },
+    {
+      "eng": "attack",
+      "kor": "승리"
+    },
+    {
+      "eng": "bullet",
+      "kor": "패배시키다, 이기다; 패배"
+    },
+    {
+      "eng": "defense",
+      "kor": "(공간·시간을) 차지하다; 점령하다"
+    }
+  ],
+  "Day 30 과학": [
+    {
+      "eng": "physics",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "atom",
+      "kor": "물리학"
+    },
+    {
+      "eng": "laboratory",
+      "kor": "화학"
+    },
+    {
+      "eng": "project",
+      "kor": "과학의; 과학적인"
+    },
+    {
+      "eng": "scientific",
+      "kor": "원자"
+    },
+    {
+      "eng": "interact",
+      "kor": "상호 작용하다"
+    },
+    {
+      "eng": "chemistry",
+      "kor": "유전자"
+    },
+    {
+      "eng": "gene",
+      "kor": "생물학"
+    },
+    {
+      "eng": "material",
+      "kor": "진화하다; (서서히) 발전[진전]하다"
+    },
+    {
+      "eng": "conduct",
+      "kor": "세포"
+    },
+    {
+      "eng": "cell",
+      "kor": "호기심"
+    },
+    {
+      "eng": "curiosity",
+      "kor": "방법"
+    },
+    {
+      "eng": "experiment",
+      "kor": "실험실"
+    },
+    {
+      "eng": "prove",
+      "kor": "계획, 프로젝트"
+    },
+    {
+      "eng": "principle",
+      "kor": "실험; 실험하다"
+    },
+    {
+      "eng": "method",
+      "kor": "이론"
+    },
+    {
+      "eng": "evolve",
+      "kor": "재료, 물질"
+    },
+    {
+      "eng": "biology",
+      "kor": "(특정 활동을) 하다; 행동"
+    },
+    {
+      "eng": "microscope",
+      "kor": "원리, 원칙; 신념, 신조"
+    },
+    {
+      "eng": "theory",
+      "kor": "현미경"
+    }
+  ],
+  "Day 31 우주": [
+    {
+      "eng": "planet",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "solar system",
+      "kor": "(대기권 외) 우주 공간"
+    },
+    {
+      "eng": "universe",
+      "kor": "행성"
+    },
+    {
+      "eng": "outer space",
+      "kor": "우주"
+    },
+    {
+      "eng": "explore",
+      "kor": "태양계"
+    },
+    {
+      "eng": "footprint",
+      "kor": "은하계"
+    },
+    {
+      "eng": "galaxy",
+      "kor": "회전하다, (빙빙) 돌다"
+    },
+    {
+      "eng": "spin",
+      "kor": "망원경"
+    },
+    {
+      "eng": "gravity",
+      "kor": "천문학자"
+    },
+    {
+      "eng": "surface",
+      "kor": "산소"
+    },
+    {
+      "eng": "spacecraft",
+      "kor": "달의"
+    },
+    {
+      "eng": "astronomy",
+      "kor": "천문학"
+    },
+    {
+      "eng": "space station",
+      "kor": "우주선"
+    },
+    {
+      "eng": "telescope",
+      "kor": "우주 정거장"
+    },
+    {
+      "eng": "observe",
+      "kor": "위성"
+    },
+    {
+      "eng": "atmosphere",
+      "kor": "중력"
+    },
+    {
+      "eng": "lunar",
+      "kor": "탐사[탐험]하다; (문제 등을) 탐구[분석]하다"
+    },
+    {
+      "eng": "astronomer",
+      "kor": "발자국"
+    },
+    {
+      "eng": "satellite",
+      "kor": "관찰하다"
+    },
+    {
+      "eng": "oxygen",
+      "kor": "대기"
+    }
+  ],
+  "Day 32 기술": [
+    {
+      "eng": "advance",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "technician",
+      "kor": "진전, 발전; 진보하다, 증진되다"
+    },
+    {
+      "eng": "precise",
+      "kor": "기술자"
+    },
+    {
+      "eng": "research",
+      "kor": "기술"
+    },
+    {
+      "eng": "process",
+      "kor": "가상의"
+    },
+    {
+      "eng": "replace",
+      "kor": "진전; 진행하다; 진전을 보이다"
+    },
+    {
+      "eng": "portable",
+      "kor": "장치, 기구"
+    },
+    {
+      "eng": "technology",
+      "kor": "인공의"
+    },
+    {
+      "eng": "convenient",
+      "kor": "혁신"
+    },
+    {
+      "eng": "virtual",
+      "kor": "정확한, 정밀한"
+    },
+    {
+      "eng": "improve",
+      "kor": "분석하다"
+    },
+    {
+      "eng": "progress",
+      "kor": "장비, 설비"
+    },
+    {
+      "eng": "artificial",
+      "kor": "편리한"
+    },
+    {
+      "eng": "device",
+      "kor": "전자의"
+    },
+    {
+      "eng": "equipment",
+      "kor": "이동하는, 이동하기 쉬운"
+    },
+    {
+      "eng": "innovation",
+      "kor": "데이터베이스"
+    },
+    {
+      "eng": "electronic",
+      "kor": "개선되다; 향상시키다"
+    },
+    {
+      "eng": "mobile",
+      "kor": "휴대용의"
+    },
+    {
+      "eng": "analyze",
+      "kor": "대신[대체]하다; 바꾸다"
+    },
+    {
+      "eng": "database",
+      "kor": "연구, 조사; 연구하다, 조사하다"
+    }
+  ],
+  "Day 33 컴퓨터와 정보 통신": [
+    {
+      "eng": "password",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "log in",
+      "kor": "키보드"
+    },
+    {
+      "eng": "laptop",
+      "kor": "휴대용 컴퓨터"
+    },
+    {
+      "eng": "keyboard",
+      "kor": "개인의, 개인적인"
+    },
+    {
+      "eng": "network",
+      "kor": "(기계가) 정지하다; (공장·가게가) 문을 닫다"
+    },
+    {
+      "eng": "wireless",
+      "kor": "접속하다, 로그인하다"
+    },
+    {
+      "eng": "tool",
+      "kor": "도구, 연장"
+    },
+    {
+      "eng": "personal",
+      "kor": "디지털(방식)의"
+    },
+    {
+      "eng": "shut down",
+      "kor": "보내다; 다시 보내 주다"
+    },
+    {
+      "eng": "forward",
+      "kor": "붙이다, 첨부하다"
+    },
+    {
+      "eng": "download",
+      "kor": "망, 네트워크"
+    },
+    {
+      "eng": "information",
+      "kor": "비밀번호"
+    },
+    {
+      "eng": "secure",
+      "kor": "내려받다"
+    },
+    {
+      "eng": "attach",
+      "kor": "삭제하다"
+    },
+    {
+      "eng": "delete",
+      "kor": "무선의"
+    },
+    {
+      "eng": "update",
+      "kor": "온라인의"
+    },
+    {
+      "eng": "browse",
+      "kor": "(책 등을) 대강 훑어보다; (인터넷을)"
+    },
+    {
+      "eng": "access",
+      "kor": "검색하다"
+    },
+    {
+      "eng": "online",
+      "kor": "접근; 이용; 접속하다"
+    },
+    {
+      "eng": "digital",
+      "kor": "갱신하다"
+    }
+  ],
+  "Day 34 문학과 출판": [
+    {
+      "eng": "biography",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "tragedy",
+      "kor": "전기"
+    },
+    {
+      "eng": "setting",
+      "kor": "이야기"
+    },
+    {
+      "eng": "plot",
+      "kor": "출판하다"
+    },
+    {
+      "eng": "author",
+      "kor": "장르"
+    },
+    {
+      "eng": "content",
+      "kor": "소설; 허구"
+    },
+    {
+      "eng": "version",
+      "kor": "문학"
+    },
+    {
+      "eng": "review",
+      "kor": "저작권"
+    },
+    {
+      "eng": "literature",
+      "kor": "(이전의 것·다른 비슷한 것과 약간 다른) -"
+    },
+    {
+      "eng": "editor",
+      "kor": "판"
+    },
+    {
+      "eng": "copyright",
+      "kor": "시"
+    },
+    {
+      "eng": "publish",
+      "kor": "(연극·소설 등의) 배경"
+    },
+    {
+      "eng": "genre",
+      "kor": "문맥; (사건의) 정황, 배경"
+    },
+    {
+      "eng": "fiction",
+      "kor": "구성하다; (시·글을) 짓다; 작곡하다"
+    },
+    {
+      "eng": "poetry",
+      "kor": "상상, 공상"
+    },
+    {
+      "eng": "tale",
+      "kor": "비극"
+    },
+    {
+      "eng": "fantasy",
+      "kor": "줄거리"
+    },
+    {
+      "eng": "compose",
+      "kor": "작가"
+    },
+    {
+      "eng": "context",
+      "kor": "편집자"
+    },
+    {
+      "eng": "edit",
+      "kor": "검토; 논평; (재)검토하다; 논평하다"
+    }
+  ],
+  "Day 35 글의 분위기": [
+    {
+      "eng": "gloomy",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "lonely",
+      "kor": "따분한, 재미없는"
+    },
+    {
+      "eng": "dull",
+      "kor": "외로운, 쓸쓸한"
+    },
+    {
+      "eng": "lively",
+      "kor": "평화로운"
+    },
+    {
+      "eng": "cheerful",
+      "kor": "활발한; 역동적인"
+    },
+    {
+      "eng": "stressful",
+      "kor": "지루한"
+    },
+    {
+      "eng": "scary",
+      "kor": "어두운; 우울한"
+    },
+    {
+      "eng": "hopeful",
+      "kor": "환상적인, 멋진"
+    },
+    {
+      "eng": "festive",
+      "kor": "겁에 질린"
+    },
+    {
+      "eng": "active",
+      "kor": "생기 넘치는, 활발한"
+    },
+    {
+      "eng": "tense",
+      "kor": "발랄한, 쾌활한"
+    },
+    {
+      "eng": "dynamic",
+      "kor": "희망에 찬; 희망적인"
+    },
+    {
+      "eng": "horrified",
+      "kor": "장관의; 극적인"
+    },
+    {
+      "eng": "calm",
+      "kor": "축제의"
+    },
+    {
+      "eng": "boring",
+      "kor": "침착한, 차분한"
+    },
+    {
+      "eng": "fantastic",
+      "kor": "낭만적인, 애정의"
+    },
+    {
+      "eng": "romantic",
+      "kor": "마음이 따스해지는"
+    },
+    {
+      "eng": "heartwarming",
+      "kor": "긴장한; 긴박한"
+    },
+    {
+      "eng": "spectacular",
+      "kor": "스트레스가 많은"
+    },
+    {
+      "eng": "peaceful",
+      "kor": "활동적인; 적극적인"
+    }
+  ],
+  "Day 36 언어": [
+    {
+      "eng": "phrase",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "sentence",
+      "kor": "구; 구절, 관용구"
+    },
+    {
+      "eng": "language",
+      "kor": "단락"
+    },
+    {
+      "eng": "gesture",
+      "kor": "정의하다, (말의) 뜻을 명확히 하다"
+    },
+    {
+      "eng": "pause",
+      "kor": "언어"
+    },
+    {
+      "eng": "conversation",
+      "kor": "대화"
+    },
+    {
+      "eng": "speaker",
+      "kor": "방언, 사투리"
+    },
+    {
+      "eng": "spread",
+      "kor": "(감정·생각 등을) 표현하다"
+    },
+    {
+      "eng": "dialect",
+      "kor": "문장"
+    },
+    {
+      "eng": "proverb",
+      "kor": "속담"
+    },
+    {
+      "eng": "define",
+      "kor": "철자를 말하다[쓰다]"
+    },
+    {
+      "eng": "intonation",
+      "kor": "잠시 멈추다; 멈춤"
+    },
+    {
+      "eng": "paragraph",
+      "kor": "억양"
+    },
+    {
+      "eng": "express",
+      "kor": "펴다, 펼치다; 퍼뜨리다"
+    },
+    {
+      "eng": "memorize",
+      "kor": "연설; 말; 언어 능력"
+    },
+    {
+      "eng": "pronounce",
+      "kor": "발음하다"
+    },
+    {
+      "eng": "bilingual",
+      "kor": "연설가; (특정 언어) 사용자"
+    },
+    {
+      "eng": "speech",
+      "kor": "이중 언어를 사용하는"
+    },
+    {
+      "eng": "reflect",
+      "kor": "몸짓; 손[몸]짓을 하다"
+    },
+    {
+      "eng": "spell",
+      "kor": "비추다; 반영하다, 나타내다"
+    }
+  ],
+  "Day 37 농업": [
+    {
+      "eng": "field",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "soil",
+      "kor": "농사, 영농"
+    },
+    {
+      "eng": "agriculture",
+      "kor": "회전하다; 교대로 하다, 윤작하다"
+    },
+    {
+      "eng": "farming",
+      "kor": "유기농의"
+    },
+    {
+      "eng": "organic",
+      "kor": "살충제, 농약"
+    },
+    {
+      "eng": "cultivate",
+      "kor": "익은"
+    },
+    {
+      "eng": "rotate",
+      "kor": "농업"
+    },
+    {
+      "eng": "weed",
+      "kor": "밭"
+    },
+    {
+      "eng": "ripe",
+      "kor": "밀"
+    },
+    {
+      "eng": "rake",
+      "kor": "경작하다; 재배하다"
+    },
+    {
+      "eng": "seed",
+      "kor": "토양, 흙"
+    },
+    {
+      "eng": "pick",
+      "kor": "(씨를) 뿌리다"
+    },
+    {
+      "eng": "crop",
+      "kor": "농작물"
+    },
+    {
+      "eng": "sow",
+      "kor": "비료"
+    },
+    {
+      "eng": "grain",
+      "kor": "물을 주다; 물"
+    },
+    {
+      "eng": "harvest",
+      "kor": "갈퀴질을 하다; 갈퀴"
+    },
+    {
+      "eng": "water",
+      "kor": "수확; 수확량; 수확하다"
+    },
+    {
+      "eng": "pesticide",
+      "kor": "씨, 씨앗"
+    },
+    {
+      "eng": "fertilizer",
+      "kor": "잡초"
+    },
+    {
+      "eng": "wheat",
+      "kor": "고르다, 선택하다; (과일 등을) 따다"
+    }
+  ],
+  "Day 38 산업": [
+    {
+      "eng": "firm",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "labor",
+      "kor": "시설"
+    },
+    {
+      "eng": "industry",
+      "kor": "산업, 공업"
+    },
+    {
+      "eng": "import",
+      "kor": "회사"
+    },
+    {
+      "eng": "facility",
+      "kor": "설립하다"
+    },
+    {
+      "eng": "trade",
+      "kor": "노동; 노동자"
+    },
+    {
+      "eng": "capital",
+      "kor": "수도; 대문자; 자본금"
+    },
+    {
+      "eng": "manufacture",
+      "kor": "벤처 사업, (사업상의) 모험; (재산 등을) ~에"
+    },
+    {
+      "eng": "assemble",
+      "kor": "걸다"
+    },
+    {
+      "eng": "venture",
+      "kor": "수익, 이윤"
+    },
+    {
+      "eng": "goods",
+      "kor": "상품"
+    },
+    {
+      "eng": "demand",
+      "kor": "(수익·작물 등을) 내다, 산출하다"
+    },
+    {
+      "eng": "found",
+      "kor": "수입하다; 수입(품)"
+    },
+    {
+      "eng": "supply",
+      "kor": "전략"
+    },
+    {
+      "eng": "utilize",
+      "kor": "활용하다, 이용하다"
+    },
+    {
+      "eng": "export",
+      "kor": "제조하다; 제조"
+    },
+    {
+      "eng": "strategy",
+      "kor": "조립하다"
+    },
+    {
+      "eng": "profit",
+      "kor": "공급; 공급하다"
+    },
+    {
+      "eng": "yield",
+      "kor": "수출하다; 수출(품)"
+    },
+    {
+      "eng": "operation",
+      "kor": "거래, 무역; 거래하다, 무역하다"
+    }
+  ],
+  "Day 39 경제": [
+    {
+      "eng": "income",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "finance",
+      "kor": "부, 재산"
+    },
+    {
+      "eng": "account",
+      "kor": "소득, 수입"
+    },
+    {
+      "eng": "savings",
+      "kor": "계좌"
+    },
+    {
+      "eng": "property",
+      "kor": "균형; 잔고; 균형을 잡다"
+    },
+    {
+      "eng": "wealth",
+      "kor": "거래, 합의; 다루다, 처리하다"
+    },
+    {
+      "eng": "market",
+      "kor": "재정; 자금"
+    },
+    {
+      "eng": "increase",
+      "kor": "시장"
+    },
+    {
+      "eng": "commerce",
+      "kor": "저축, 저금"
+    },
+    {
+      "eng": "deal",
+      "kor": "투자하다"
+    },
+    {
+      "eng": "balance",
+      "kor": "재산; 부동산"
+    },
+    {
+      "eng": "invest",
+      "kor": "교환; 환전; 교환하다"
+    },
+    {
+      "eng": "growth",
+      "kor": "증가하다; 증가"
+    },
+    {
+      "eng": "decrease",
+      "kor": "감소하다; 감소, 하락"
+    },
+    {
+      "eng": "exchange",
+      "kor": "분실; (금전적) 손실, 손해"
+    },
+    {
+      "eng": "debt",
+      "kor": "빚, 부채"
+    },
+    {
+      "eng": "budget",
+      "kor": "상업; 무역"
+    },
+    {
+      "eng": "fund",
+      "kor": "예산"
+    },
+    {
+      "eng": "benefit",
+      "kor": "기금; 기금을 대다"
+    },
+    {
+      "eng": "loss",
+      "kor": "혜택, 이득; ~에게 이익이 되다; 이익을"
+    }
+  ],
+  "Day 40 소비": [
+    {
+      "eng": "product",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "customer",
+      "kor": "질, 품질"
+    },
+    {
+      "eng": "quality",
+      "kor": "비싼"
+    },
+    {
+      "eng": "expensive",
+      "kor": "제품, 상품"
+    },
+    {
+      "eng": "refund",
+      "kor": "호화로움, 사치"
+    },
+    {
+      "eng": "luxury",
+      "kor": "고객, 손님"
+    },
+    {
+      "eng": "tag",
+      "kor": "구매하다; 구매"
+    },
+    {
+      "eng": "purchase",
+      "kor": "영수증"
+    },
+    {
+      "eng": "afford",
+      "kor": "(금전적·시간적) 여유가 되다"
+    },
+    {
+      "eng": "receipt",
+      "kor": "세금"
+    },
+    {
+      "eng": "expense",
+      "kor": "돈, 비용"
+    },
+    {
+      "eng": "tax",
+      "kor": "할인; 할인하다"
+    },
+    {
+      "eng": "cost",
+      "kor": "소비자"
+    },
+    {
+      "eng": "spend",
+      "kor": "꼬리표, 표"
+    },
+    {
+      "eng": "consumer",
+      "kor": "(돈을) 쓰다; (시간을) 보내다"
+    },
+    {
+      "eng": "discount",
+      "kor": "판매되는; 할인 중인"
+    },
+    {
+      "eng": "on sale",
+      "kor": "환불"
+    },
+    {
+      "eng": "cash",
+      "kor": "청구하다; 요금"
+    },
+    {
+      "eng": "credit card",
+      "kor": "현금"
+    },
+    {
+      "eng": "charge",
+      "kor": "신용 카드"
+    }
+  ],
+  "Day 41 건강": [
+    {
+      "eng": "condition",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "immune",
+      "kor": "건강한; 건강에 좋은"
+    },
+    {
+      "eng": "health",
+      "kor": "면역성이 있는, 면역의"
+    },
+    {
+      "eng": "healthy",
+      "kor": "정신의, 마음의"
+    },
+    {
+      "eng": "relax",
+      "kor": "상태; 환경"
+    },
+    {
+      "eng": "mental",
+      "kor": "의학의, 의료의"
+    },
+    {
+      "eng": "medical",
+      "kor": "건강"
+    },
+    {
+      "eng": "reaction",
+      "kor": "예방하다, 막다"
+    },
+    {
+      "eng": "medicine",
+      "kor": "약; 마약"
+    },
+    {
+      "eng": "pill",
+      "kor": "조사하다, 검토하다; 진찰하다"
+    },
+    {
+      "eng": "treat",
+      "kor": "약; 의학"
+    },
+    {
+      "eng": "manage",
+      "kor": "(고통·부담 등을) 완화하다, 덜어 주다"
+    },
+    {
+      "eng": "activity",
+      "kor": "(병·상처 등을) 고치다, 낫게 하다"
+    },
+    {
+      "eng": "relieve",
+      "kor": "휴식을 취하다; (긴장을) 풀게 하다"
+    },
+    {
+      "eng": "prevent",
+      "kor": "알약, 정제"
+    },
+    {
+      "eng": "drug",
+      "kor": "대하다, 다루다; 치료하다"
+    },
+    {
+      "eng": "examine",
+      "kor": "반응"
+    },
+    {
+      "eng": "remedy",
+      "kor": "치료, 요법"
+    },
+    {
+      "eng": "cure",
+      "kor": "간신히 해내다; 운영[관리]하다"
+    },
+    {
+      "eng": "heal",
+      "kor": "활동"
+    }
+  ],
+  "Day 42 질병과 치료": [
+    {
+      "eng": "minor",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "severe",
+      "kor": "토하다"
+    },
+    {
+      "eng": "symptom",
+      "kor": "병, 질병"
+    },
+    {
+      "eng": "vomit",
+      "kor": "증상"
+    },
+    {
+      "eng": "dizzy",
+      "kor": "(건강이) 회복되다"
+    },
+    {
+      "eng": "disease",
+      "kor": "(질병 등에) 시달리다; 고통받다; (불쾌한"
+    },
+    {
+      "eng": "sore",
+      "kor": "일을) 겪다"
+    },
+    {
+      "eng": "stomachache",
+      "kor": "작은, 가벼운"
+    },
+    {
+      "eng": "headache",
+      "kor": "어지러운"
+    },
+    {
+      "eng": "ill",
+      "kor": "심각한, 극심한; (처벌이) 가혹한"
+    },
+    {
+      "eng": "cancer",
+      "kor": "아픈, 병든"
+    },
+    {
+      "eng": "suffer",
+      "kor": "(염증 등으로) 아픈"
+    },
+    {
+      "eng": "infect",
+      "kor": "행하다, 실시하다; 공연하다"
+    },
+    {
+      "eng": "heart attack",
+      "kor": "감염시키다"
+    },
+    {
+      "eng": "pain",
+      "kor": "암"
+    },
+    {
+      "eng": "patient",
+      "kor": "작동되다; 가동하다; 수술하다"
+    },
+    {
+      "eng": "operate",
+      "kor": "환자"
+    },
+    {
+      "eng": "perform",
+      "kor": "고통, 통증"
+    },
+    {
+      "eng": "recover",
+      "kor": "심장 마비"
+    },
+    {
+      "eng": "surgery",
+      "kor": "두통"
+    }
+  ],
+  "Day 43 사고": [
+    {
+      "eng": "crash",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "emergency",
+      "kor": "비상사태, 위급"
+    },
+    {
+      "eng": "occur",
+      "kor": "사고; 우연"
+    },
+    {
+      "eng": "situation",
+      "kor": "충돌/추락 사고; 충돌/추락하다"
+    },
+    {
+      "eng": "bump",
+      "kor": "발생하다, 일어나다"
+    },
+    {
+      "eng": "breathe",
+      "kor": "상황"
+    },
+    {
+      "eng": "blood",
+      "kor": "부딪치다"
+    },
+    {
+      "eng": "bruise",
+      "kor": "숨 쉬다, 호흡하다"
+    },
+    {
+      "eng": "accident",
+      "kor": "예기치 않은, 뜻밖의"
+    },
+    {
+      "eng": "unexpected",
+      "kor": "(특히 사고로) 부상을 입히다"
+    },
+    {
+      "eng": "injure",
+      "kor": "상처, 부상; 부상[상처]을 입히다"
+    },
+    {
+      "eng": "wound",
+      "kor": "설명서; 손으로 하는, 육체 노동의"
+    },
+    {
+      "eng": "damage",
+      "kor": "응급 처치"
+    },
+    {
+      "eng": "right away",
+      "kor": "피"
+    },
+    {
+      "eng": "rescue",
+      "kor": "멍, 타박상; 멍이 생기다"
+    },
+    {
+      "eng": "urgent",
+      "kor": "손상, 피해; 피해를 입히다"
+    },
+    {
+      "eng": "bandage",
+      "kor": "구하다, 구출하다; 구출, 구조"
+    },
+    {
+      "eng": "manual",
+      "kor": "긴급한, 시급한"
+    },
+    {
+      "eng": "first aid",
+      "kor": "붕대"
+    },
+    {
+      "eng": "donate",
+      "kor": "(자선 단체에) 기부[기증]하다; (혈액·장기"
+    }
+  ],
+  "Day 44 정치": [
+    {
+      "eng": "democracy",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "politics",
+      "kor": "정치의, 정치적인"
+    },
+    {
+      "eng": "majority",
+      "kor": "정당, ~당"
+    },
+    {
+      "eng": "policy",
+      "kor": "민주주의"
+    },
+    {
+      "eng": "political",
+      "kor": "정치"
+    },
+    {
+      "eng": "liberal",
+      "kor": "대다수"
+    },
+    {
+      "eng": "party",
+      "kor": "반대하다; 물건; 목적, 목표"
+    },
+    {
+      "eng": "take part in",
+      "kor": "대통령; 회장"
+    },
+    {
+      "eng": "poll",
+      "kor": "항의하다; 항의; 시위"
+    },
+    {
+      "eng": "government",
+      "kor": "정책"
+    },
+    {
+      "eng": "president",
+      "kor": "진보적인"
+    },
+    {
+      "eng": "campaign",
+      "kor": "정부"
+    },
+    {
+      "eng": "republic",
+      "kor": "(선거 등의) 표; 투표하다"
+    },
+    {
+      "eng": "object",
+      "kor": "선출하다"
+    },
+    {
+      "eng": "candidate",
+      "kor": "공화국"
+    },
+    {
+      "eng": "elect",
+      "kor": "~에 출마하다"
+    },
+    {
+      "eng": "vote",
+      "kor": "후보자"
+    },
+    {
+      "eng": "protest",
+      "kor": "개혁하다; 개혁"
+    },
+    {
+      "eng": "reform",
+      "kor": "~에 참여[참가]하다"
+    },
+    {
+      "eng": "run for",
+      "kor": "운동, 캠페인"
+    }
+  ],
+  "Day 45 국가": [
+    {
+      "eng": "individual",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "duty",
+      "kor": "대사"
+    },
+    {
+      "eng": "diplomat",
+      "kor": "기능, 역할; (제대로) 기능하다"
+    },
+    {
+      "eng": "international",
+      "kor": "보호하다, 지키다"
+    },
+    {
+      "eng": "authority",
+      "kor": "공식적인, 공적인; 공무원"
+    },
+    {
+      "eng": "citizen",
+      "kor": "대중의; 공공의"
+    },
+    {
+      "eng": "function",
+      "kor": "국민; 시민"
+    },
+    {
+      "eng": "official",
+      "kor": "권한; 권위"
+    },
+    {
+      "eng": "ethnic",
+      "kor": "충실한"
+    },
+    {
+      "eng": "native",
+      "kor": "개인의; 개인"
+    },
+    {
+      "eng": "public",
+      "kor": "인종의"
+    },
+    {
+      "eng": "identity",
+      "kor": "신원; 정체성, 독자성"
+    },
+    {
+      "eng": "border",
+      "kor": "의무; 직무, 임무"
+    },
+    {
+      "eng": "tradition",
+      "kor": "인구"
+    },
+    {
+      "eng": "loyal",
+      "kor": "외교관"
+    },
+    {
+      "eng": "population",
+      "kor": "국제적인"
+    },
+    {
+      "eng": "ambassador",
+      "kor": "전통"
+    },
+    {
+      "eng": "protect",
+      "kor": "국경"
+    },
+    {
+      "eng": "organization",
+      "kor": "조직, 기구"
+    },
+    {
+      "eng": "racial",
+      "kor": "민족의, 종족의"
+    }
+  ],
+  "Day 46 법과 범죄": [
+    {
+      "eng": "justice",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "lawyer",
+      "kor": "배심원단"
+    },
+    {
+      "eng": "court",
+      "kor": "범죄"
+    },
+    {
+      "eng": "jury",
+      "kor": "고발하다, 기소하다"
+    },
+    {
+      "eng": "legal",
+      "kor": "규제하다"
+    },
+    {
+      "eng": "accuse",
+      "kor": "정의; 공정; 사법, 재판"
+    },
+    {
+      "eng": "arrest",
+      "kor": "법원, 법정"
+    },
+    {
+      "eng": "crime",
+      "kor": "재판, 공판"
+    },
+    {
+      "eng": "sentence",
+      "kor": "허락, 허가"
+    },
+    {
+      "eng": "trial",
+      "kor": "금지, 금지령; 금지하다"
+    },
+    {
+      "eng": "confess",
+      "kor": "변호사"
+    },
+    {
+      "eng": "ban",
+      "kor": "법률의; 합법의"
+    },
+    {
+      "eng": "allow",
+      "kor": "체포하다; 체포"
+    },
+    {
+      "eng": "permission",
+      "kor": "금지하다"
+    },
+    {
+      "eng": "discipline",
+      "kor": "허용하다, 허락하다"
+    },
+    {
+      "eng": "regulate",
+      "kor": "관습, 풍습"
+    },
+    {
+      "eng": "forbid",
+      "kor": "(죄·잘못을) 자백하다"
+    },
+    {
+      "eng": "guilty",
+      "kor": "형벌, 형; (형을) 선고하다"
+    },
+    {
+      "eng": "custom",
+      "kor": "유죄의; 죄책감이 드는"
+    },
+    {
+      "eng": "obey",
+      "kor": "징계하다; 규율, 훈육"
+    }
+  ],
+  "Day 47 세계 이슈와 시사": [
+    {
+      "eng": "issue",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "escape",
+      "kor": "사회적인, 사회의"
+    },
+    {
+      "eng": "shelter",
+      "kor": "충돌; (의견·성격 등이) 충돌하다"
+    },
+    {
+      "eng": "collective",
+      "kor": "주제, 쟁점, 문제점"
+    },
+    {
+      "eng": "social",
+      "kor": "적대적인"
+    },
+    {
+      "eng": "poverty",
+      "kor": "임무"
+    },
+    {
+      "eng": "worldwide",
+      "kor": "가난, 빈곤"
+    },
+    {
+      "eng": "clash",
+      "kor": "선언하다, 선포하다"
+    },
+    {
+      "eng": "hostile",
+      "kor": "탈출하다"
+    },
+    {
+      "eng": "relation",
+      "kor": "직면하다; 맞서다"
+    },
+    {
+      "eng": "struggle",
+      "kor": "전 세계적인; 전 세계에"
+    },
+    {
+      "eng": "welfare",
+      "kor": "통합하다, 통일하다"
+    },
+    {
+      "eng": "equally",
+      "kor": "복지"
+    },
+    {
+      "eng": "settle",
+      "kor": "고투하다, 애쓰다; 투쟁; 분투"
+    },
+    {
+      "eng": "declare",
+      "kor": "피난처"
+    },
+    {
+      "eng": "mission",
+      "kor": "집단의, 단체의"
+    },
+    {
+      "eng": "responsible",
+      "kor": "해결하다, 합의를 보다"
+    },
+    {
+      "eng": "confront",
+      "kor": "관계"
+    },
+    {
+      "eng": "volunteer",
+      "kor": "책임이 있는; 책임지고 있는"
+    },
+    {
+      "eng": "unify",
+      "kor": "자원하다; 자원봉사자, 지원자"
+    }
+  ],
+  "Day 48 시간": [
+    {
+      "eng": "permanent",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "moment",
+      "kor": "즉각적인"
+    },
+    {
+      "eng": "constant",
+      "kor": "영원히"
+    },
+    {
+      "eng": "past",
+      "kor": "끊임없는; 변함없는"
+    },
+    {
+      "eng": "continuous",
+      "kor": "계속되는, 지속적인"
+    },
+    {
+      "eng": "forever",
+      "kor": "임시의, 일시적인"
+    },
+    {
+      "eng": "recently",
+      "kor": "10 년"
+    },
+    {
+      "eng": "nowadays",
+      "kor": "잠시; 순간"
+    },
+    {
+      "eng": "minute",
+      "kor": "분; 잠깐, 순간"
+    },
+    {
+      "eng": "dawn",
+      "kor": "(시간·순서가) 앞의, 이전의"
+    },
+    {
+      "eng": "midnight",
+      "kor": "영구적인"
+    },
+    {
+      "eng": "period",
+      "kor": "(지위가) 이전의; (시간상) 예전의, 과거의"
+    },
+    {
+      "eng": "temporary",
+      "kor": "과거; 과거의; 이전의"
+    },
+    {
+      "eng": "immediate",
+      "kor": "새벽"
+    },
+    {
+      "eng": "ago",
+      "kor": "낮, 주간"
+    },
+    {
+      "eng": "decade",
+      "kor": "전에"
+    },
+    {
+      "eng": "previous",
+      "kor": "자정, 밤 12 시, 한밤중"
+    },
+    {
+      "eng": "former",
+      "kor": "기간; (역사상의) 시대, 시기"
+    },
+    {
+      "eng": "present",
+      "kor": "현재의; 참석한; 선물; 현재"
+    },
+    {
+      "eng": "daytime",
+      "kor": "최근에"
+    }
+  ],
+  "Day 49 방향과 공간": [
+    {
+      "eng": "forward",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "direction",
+      "kor": "방향; 지시; 사용법"
+    },
+    {
+      "eng": "ahead",
+      "kor": "한쪽으로, 옆쪽에"
+    },
+    {
+      "eng": "aside",
+      "kor": "똑바로; 곧장; 곧은, 똑바른"
+    },
+    {
+      "eng": "space",
+      "kor": "앞으로"
+    },
+    {
+      "eng": "backward",
+      "kor": "가로의, 수평의"
+    },
+    {
+      "eng": "position",
+      "kor": "뒤로, 뒤쪽으로"
+    },
+    {
+      "eng": "distant",
+      "kor": "공간"
+    },
+    {
+      "eng": "nearby",
+      "kor": "(정반대로) 뒤바꾸다; (정)반대; (정)반대의"
+    },
+    {
+      "eng": "straight",
+      "kor": "(공간·시간상으로) 앞으로, 앞에"
+    },
+    {
+      "eng": "spot",
+      "kor": "위층으로; 위층"
+    },
+    {
+      "eng": "external",
+      "kor": "더 위에 있는, 위쪽의"
+    },
+    {
+      "eng": "upper",
+      "kor": "위치; 자세; 입장"
+    },
+    {
+      "eng": "upstairs",
+      "kor": "반점; (특정한) 곳, 장소"
+    },
+    {
+      "eng": "reverse",
+      "kor": "수직의, 세로의"
+    },
+    {
+      "eng": "bottom",
+      "kor": "내부의; 체내의"
+    },
+    {
+      "eng": "vertical",
+      "kor": "(시간·공간상으로) 떨어져, 따로"
+    },
+    {
+      "eng": "horizontal",
+      "kor": "(시간·공간상으로) 먼, 떨어진"
+    },
+    {
+      "eng": "apart",
+      "kor": "인근의, 가까운; 가까이에(서)"
+    },
+    {
+      "eng": "internal",
+      "kor": "맨 아래쪽의; 맨 아래; 바닥"
+    }
+  ],
+  "Day 50 수와 양": [
+    {
+      "eng": "addition",
+      "kor": "▣ 다음 우리말 뜻에 알맞은 영어를 쓰시오."
+    },
+    {
+      "eng": "division",
+      "kor": "분할; 분배; 나눗셈"
+    },
+    {
+      "eng": "calculate",
+      "kor": "곱하다; 증가하다"
+    },
+    {
+      "eng": "quantity",
+      "kor": "계산하다"
+    },
+    {
+      "eng": "exceed",
+      "kor": "덧셈; 추가"
+    },
+    {
+      "eng": "extra",
+      "kor": "부족, 결핍; ~이 없다, 부족하다"
+    },
+    {
+      "eng": "multiply",
+      "kor": "빼다"
+    },
+    {
+      "eng": "subtract",
+      "kor": "숫자, 수치; 인물"
+    },
+    {
+      "eng": "scarce",
+      "kor": "(수·가치 등이) ~이다, 같다; 동일한; 동등한"
+    },
+    {
+      "eng": "quarter",
+      "kor": "이상한; 홀수의"
+    },
+    {
+      "eng": "equal",
+      "kor": "양, 수량"
+    },
+    {
+      "eng": "figure",
+      "kor": "추가의"
+    },
+    {
+      "eng": "single",
+      "kor": "부유한; 풍부한"
+    },
+    {
+      "eng": "sufficient",
+      "kor": "초과하다"
+    },
+    {
+      "eng": "odd",
+      "kor": "1/4; (미국) 25 센트짜리 동전"
+    },
+    {
+      "eng": "even",
+      "kor": "부족한, 드문"
+    },
+    {
+      "eng": "rich",
+      "kor": "충분한"
+    },
+    {
+      "eng": "lack",
+      "kor": "평평한; 짝수의"
+    },
+    {
+      "eng": "plural",
+      "kor": "단 하나의; 1 인용의"
+    },
+    {
+      "eng": "dozen",
+      "kor": "복수형의; 복수형"
+    }
+  ]
+}
